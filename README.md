@@ -23,34 +23,34 @@ As the **Senior Decision Maker**, I was responsible for:
 
 ## Exercise Objectives
 
-* Simulate the response to a cybersecurity incident.
-* Evaluate organisational decision-making under pressure.
-* Coordinate actions across multiple participants and responsibilities.
-* Assess potential business and operational impacts.
-* Improve communication and incident handling procedures.
+- Simulate the management of a cybersecurity incident in a controlled exercise.
+- Evaluate decision-making and risk assessment under time pressure.
+- Coordinate response activities across technical and non-technical roles.
+- Assess potential operational and organisational impact.
+- Identify lessons learned and opportunities to improve incident response procedures.
 
 ---
 
 ## Skills Demonstrated
 
-* Incident Response
-* Cybersecurity Risk Assessment
-* Decision Making
-* Crisis Management
-* Security Coordination
-* Stakeholder Communication
-* Technical Reporting
-* Team Collaboration
+- Incident Response
+- Cybersecurity Risk Assessment
+- Strategic Decision Making
+- Crisis Management
+- Security Coordination
+- Stakeholder Communication
+- Incident Documentation
+- Team Collaborationn
 
 ---
 
 ## Key Outcomes
 
-* Participated in a realistic cyber incident simulation involving multiple stakeholders.
-* Applied structured decision-making throughout the incident lifecycle.
-* Evaluated operational risks and response priorities.
-* Supported coordinated containment and response efforts.
-* Contributed to incident documentation and lessons learned for future improvements.
+- Applied structured decision-making throughout a simulated cyber incident.
+- Assessed operational and organisational risks to support response priorities.
+- Supported coordinated containment and response activities across multiple roles.
+- Practised stakeholder communication during a simulated security crisis.
+- Identified lessons learned and areas for improving future incident response processes.
 
 ---
 

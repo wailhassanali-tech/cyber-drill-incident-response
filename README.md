@@ -56,7 +56,9 @@ As the **Senior Decision Maker**, I was responsible for:
 
 ## Project Documentation
 
-Supporting documentation and reports describe the exercise scenario, decision-making process, and key observations gathered during the simulation.
+The exercise documentation covers the incident scenario, role responsibilities, decision-making process, response priorities, and lessons learned from the simulated security event.
+
+The full project report is available upon request.
 
 ---
 
